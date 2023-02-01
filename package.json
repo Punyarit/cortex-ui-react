@@ -1,10 +1,10 @@
 {
-  "name": "@cortex-ui/react",
-  "version": "0.0.1",
+  "name": "@cortex-ui/jsx",
+  "version": "0.0.2",
   "description": "Cortex-UI React Component",
   "main": "index.js",
   "scripts": {
-    "public": "npm publish --acess=publish"
+    "public": "npm publish --acess=public"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,12 @@
   "bugs": {
     "url": "https://github.com/Punyarit/cortex-ui-react/issues"
   },
+  "files": [
+    "cx/*"
+  ],
   "homepage": "https://github.com/Punyarit/cortex-ui-react#readme",
   "dependencies": {
-    "@cortex-ui/core": "^0.0.54",
+    "@cortex-ui/core": "^0.0.56",
     "@lit-labs/react": "^1.1.1",
     "@types/react": "^18.0.27",
     "react": "^18.2.0"
