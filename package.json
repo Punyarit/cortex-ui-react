@@ -1,0 +1,28 @@
+{
+  "name": "@cortex-ui/react",
+  "version": "0.0.1",
+  "description": "Cortex-UI React Component",
+  "main": "index.js",
+  "scripts": {
+    "public": "npm publish --acess=publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punyarit/cortex-ui-react.git"
+  },
+  "keywords": [
+    "Cortex-UI"
+  ],
+  "author": "Punyarit",
+  "license": "H Lab Co., Ltd.",
+  "bugs": {
+    "url": "https://github.com/Punyarit/cortex-ui-react/issues"
+  },
+  "homepage": "https://github.com/Punyarit/cortex-ui-react#readme",
+  "dependencies": {
+    "@cortex-ui/core": "^0.0.54",
+    "@lit-labs/react": "^1.1.1",
+    "@types/react": "^18.0.27",
+    "react": "^18.2.0"
+  }
+}
