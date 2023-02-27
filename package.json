@@ -23,7 +23,7 @@
   ],
   "homepage": "https://github.com/Punyarit/cortex-ui-react#readme",
   "dependencies": {
-    "@cortex-ui/core": "^0.0.56",
+    "@cortex-ui/core": "^0.0.128",
     "@lit-labs/react": "^1.1.1",
     "@types/react": "^18.0.27",
     "react": "^18.2.0"
