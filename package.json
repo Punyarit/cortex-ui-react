@@ -1,5 +1,5 @@
 {
-  "name": "@cortex-ui/jsx",
+  "name": "@cortex-ui/react",
   "version": "0.0.2",
   "description": "Cortex-UI React Component",
   "main": "index.js",

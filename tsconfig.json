@@ -15,5 +15,5 @@
     "declaration": true,
     "declarationDir": "./cx"
   },
-  "exclude": ["node_modules", "cx", "build"]
+  "exclude": ["node_modules", "cx"]
 }
