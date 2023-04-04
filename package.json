@@ -1,6 +1,6 @@
 {
   "name": "@cortex-ui/react",
-  "version": "0.0.25",
+  "version": "0.0.29",
   "description": "Cortex-UI React Component",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   ],
   "homepage": "https://github.com/Punyarit/cortex-ui-react#readme",
   "dependencies": {
-    "@cortex-ui/core": "^0.0.197",
+    "@cortex-ui/core": "^0.0.245",
     "@lit-labs/react": "^1.1.1",
     "@types/react": "^18.0.27",
     "react": "^18.2.0"
