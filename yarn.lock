@@ -2,18 +2,41 @@
 # yarn lockfile v1
 
 
-"@cortex-ui/core@^0.0.291":
-  version "0.0.291"
-  resolved "https://registry.yarnpkg.com/@cortex-ui/core/-/core-0.0.291.tgz#909f088ec0bbc423e7f845ebd421766f4a491cf5"
-  integrity sha512-Dvx8XYfhRZYVPOsFtD4+27SjtF/sAweG6W3y68KiK5rM5U3tcgVkU0iS0RFSm5pJctdXRyzyo5nDuQr8AXCwQw==
+"@cortex-ui/core@^0.0.301":
+  version "0.0.301"
+  resolved "https://registry.yarnpkg.com/@cortex-ui/core/-/core-0.0.301.tgz#3281aebc588dd4b4d583bd612ccd6496dd7c1b02"
+  integrity sha512-lPR/WCBlv/j3KLtrd0MnBFFbRLhHwsCrizPQ762xFo+8916TONGOuea+M7nVy2MO/yI34Ia0Zc3qUC7pH6u6mw==
   dependencies:
     "@types/react" "^18.0.27"
     lit "^2.6.1"
+
+"@cortex-ui/core@^0.0.304":
+  version "0.0.304"
+  resolved "https://registry.yarnpkg.com/@cortex-ui/core/-/core-0.0.304.tgz#5ed0b0961cd442cd52187f81571253abd1ca9537"
+  integrity sha512-oLQaaaMRZdpgIiAUtK6j75LPRpUuE23i6+iTZNT7kr/vX5op8oGx2D01iryw8mXWwKxvh0wCWk4zMx/tjrah4g==
+  dependencies:
+    "@types/react" "^18.0.27"
+    lit "^2.6.1"
+
+"@cortex-ui/react@^0.0.55":
+  version "0.0.55"
+  resolved "https://registry.yarnpkg.com/@cortex-ui/react/-/react-0.0.55.tgz#1f9a081dc093d8ab7808fb0996bf9eeda37244ee"
+  integrity sha512-RLB3qjyFuBib463cTBxlqf/DMQE7JzKSgE4M19ypsDfbS5oli6SaUYJP/+/uZZnRqESJ6dxuQdOQvG9E8MbBpw==
+  dependencies:
+    "@cortex-ui/core" "^0.0.301"
+    "@lit-labs/react" "^1.1.1"
+    "@types/react" "^18.0.27"
+    react "^18.2.0"
 
 "@lit-labs/react@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@lit-labs/react/-/react-1.1.1.tgz#88a4320d357dcdfd7c7e276f809e3453a124cbbc"
   integrity sha512-9TC+/ZWb6BJlWCyUr14FKFlaGnyKpeEDorufXozQgke/VoVrslUQNaL7nBmrAWdNrmzx5jWgi8lFmWwrxMjnlA==
+
+"@lit-labs/react@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@lit-labs/react/-/react-1.2.1.tgz#5b421502cdf68a3639dec431318eeed2285f1c0e"
+  integrity sha512-DiZdJYFU0tBbdQkfwwRSwYyI/mcWkg3sWesKRsHUd4G+NekTmmeq9fzsurvcKTNVa0comNljwtg4Hvi1ds3V+A==
 
 "@lit-labs/ssr-dom-shim@^1.0.0":
   version "1.0.0"
