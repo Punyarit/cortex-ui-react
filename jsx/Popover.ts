@@ -9,7 +9,7 @@ export const CxPopover = createComponent({
 });
 
 declare global {
-  namespace CxTooltip {
+  namespace CXPopover {
     type JSX = typeof CxPopover.defaultProps;
   }
 }
